@@ -12,7 +12,7 @@
 - None
 
 
-## 22-11-17 10:43 - v0.1.1 - Initial commit
+## 22-11-17 10:43 - v0.1.0 - Initial commit
 ### Added
 - Mostly everything appart this file
 - github upload  
